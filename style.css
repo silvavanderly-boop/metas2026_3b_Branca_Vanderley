@@ -34,7 +34,7 @@ body {
 .botao{
     font-family: 'Times New Roman', Times, serif;
     background-color: var(--botao-inativo);
-    corlor:var(--branco);
+    color: var(--branco);
     display: flex;
     justify-content: center;
     padding: 1em;
