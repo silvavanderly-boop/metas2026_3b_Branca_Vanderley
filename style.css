@@ -96,4 +96,26 @@ body {
     min-width: 100px;
 }
 
-.contador-digito
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+
+.contaodr-digito-texto{
+    color: var(--grifar)
+    font-size: 20px;
+    margin 0;
+}
+
+
+@media screen and (min-widht: 768px) {
+    .botao{
+        display: flex:
+    }
+    .botao:fist-child{
+        border-radius: 40px 0 0 0;
+    }
+    .botao:last-child{
+        border-radius: 0 40px 0 0;
+    }
+}
