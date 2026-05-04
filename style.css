@@ -62,3 +62,24 @@ body {
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--grifar);
 }
+
+.abas.textos{
+    background-color: var(--texto-fundo);
+    padding-radius: 0 0 48px 48px;
+}
+
+
+
+.aba-conteudo.ativo{
+    display: block;
+}
+
+.aba-conteudo{
+    display: none;
+}
+
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+
