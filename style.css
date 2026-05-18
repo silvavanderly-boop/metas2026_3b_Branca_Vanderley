@@ -67,7 +67,7 @@ body {
 .abas.textos{
     background-color: var(--texto-fundo);
     padding: 40px;
-    padding-radius: 0 0 48px 48px;
+    border-radius: 0 0 48px 48px;
 }
 
 
@@ -110,15 +110,15 @@ body {
 }
 
 .contaodr-digito-texto{
-    color: var(--grifar)
+    color: var(--grifar);
     font-size: 20px;
-    margin 0;
+    margin: 0;
 }
 
 
 @media screen and (min-widht: 768px) {
     .botao{
-        display: flex:
+        display: flex;
     }
     .botao:fist-child{
         border-radius: 40px 0 0 0;
