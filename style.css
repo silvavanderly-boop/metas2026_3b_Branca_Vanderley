@@ -16,6 +16,7 @@ body {
 }
 
 .conteudo-principal {
+   
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -65,6 +66,7 @@ body {
 
 .abas.textos{
     background-color: var(--texto-fundo);
+    padding: 40px;
     padding-radius: 0 0 48px 48px;
 }
 
@@ -93,8 +95,6 @@ body {
     display:flex;  
     justify-content:center;
     flex-wrap: wrap;
-
-
 }
 
 
