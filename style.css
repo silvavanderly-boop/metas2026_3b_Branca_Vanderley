@@ -120,7 +120,7 @@ body {
     .botao{
         display: flex;
     }
-    .botao:fist-child{
+    .botao:first-child{
         border-radius: 40px 0 0 0;
     }
     .botao:last-child{
