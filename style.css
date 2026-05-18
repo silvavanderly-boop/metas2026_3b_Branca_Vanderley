@@ -64,7 +64,7 @@ body {
     border-bottom: 4px solid var(--grifar);
 }
 
-.abas.textos{
+.abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
@@ -109,7 +109,7 @@ body {
     margin: 0;
 }
 
-.contaodr-digito-texto{
+.contador-digito-texto{
     color: var(--grifar);
     font-size: 20px;
     margin: 0;
